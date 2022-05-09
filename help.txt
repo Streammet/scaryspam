@@ -2,7 +2,7 @@ Scaryspam is a Program to Scare or Troll you Friends with spam Sms or Emails fro
 
 
 First step:
-git clone
+git clone https://github.com/Streammet/scaryspam
 
 Secound step:
 cd scaryspam
