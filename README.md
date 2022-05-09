@@ -10,6 +10,6 @@
 </br>python3 scaryspam.py
 
 <b>Supported platforms</b>
-</br>- Instagram
+</br>-Instagram
 </body>
 </html>
