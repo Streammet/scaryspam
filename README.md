@@ -7,6 +7,7 @@ git clone https://github.com/Streammet/scaryspam
 Secound step:
 cd scaryspam
 
+
 Third step:
 pip3 install -r requirements
 
